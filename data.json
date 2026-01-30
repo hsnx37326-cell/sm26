@@ -1,0 +1,11 @@
+{
+  "ClubData": [
+    {
+      "ID": 1,
+      "Name": "Ultra FC",
+      "Balance": 999999999999,
+      "TransferBudget": 500000000000,
+      "WageBudget": 100000000000
+    }
+  ]
+}
